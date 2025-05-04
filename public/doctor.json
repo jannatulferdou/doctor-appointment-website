@@ -1,0 +1,182 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Ayesha Rahman",
+      "image": "https://i.ibb.co.com/RTzpR6Jw/ays.jpg",
+      "education": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "speciality": "Cardiology",
+      "experience": "12 years",
+      "registration_number": "BMC-2021345",
+      "fee": "1000",
+      "hospital_name": "Dhaka Medical Hospital",
+      "availability": {
+        "days": ["Sunday", "Tuesday", "Thursday"],
+        "time": "4:00 PM - 8:00 PM"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. Tanvir Hossain",
+      "image": "https://i.ibb.co.com/ccwzMNyC/tanvir.jpg",
+      "education": "MBBS, MS (Orthopedics)",
+      "speciality": "Orthopedics",
+      "experience": "8 years",
+      "registration_number": "BMC-2010456",
+      "fee": "800",
+      "hospital_name": "United Hospital",
+      "availability": {
+        "days": ["Monday", "Wednesday", "Saturday"],
+        "time": "10:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Nusrat Jahan",
+      "image": "https://i.ibb.co.com/9H3h4sDs/nusrat.jpg",
+      "education": "MBBS, FCPS (Gynecology)",
+      "speciality": "Gynecology",
+      "experience": "10 years",
+      "registration_number": "BMC-2012567",
+      "fee": "900",
+      "hospital_name": "Labaid Specialized Hospital",
+      "availability": {
+        "days": ["Sunday", "Tuesday", "Thursday"],
+        "time": "3:00 PM - 7:00 PM"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dr. Fahim Ahmed",
+      "image": "https://i.ibb.co.com/Hp3N2x7F/fahim.webp",
+      "education": "MBBS, MD (Neurology)",
+      "speciality": "Neurology",
+      "experience": "7 years",
+      "registration_number": "BMC-2017890",
+      "fee": "1200",
+      "hospital_name": "Square Hospitals Ltd.",
+      "availability": {
+        "days": ["Monday", "Wednesday", "Friday"],
+        "time": "5:00 PM - 9:00 PM"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dr. Maria Islam",
+      "image": "https://i.ibb.co.com/ZzctLL7n/maria.jpg",
+      "education": "MBBS, DDV (Dermatology)",
+      "speciality": "Dermatology",
+      "experience": "6 years",
+      "registration_number": "BMC-2022789",
+      "fee": "700",
+      "hospital_name": "Popular Diagnostic Center",
+      "availability": {
+        "days": ["Tuesday", "Thursday", "Saturday"],
+        "time": "11:00 AM - 3:00 PM"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Dr. Mahmudul Hasan",
+      "image": "https://i.ibb.co.com/MDnBCCzy/mahmud.jpg",
+      "education": "MBBS, MS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "9 years",
+      "registration_number": "BMC-2009988",
+      "fee": "850",
+      "hospital_name": "Ibn Sina Hospital",
+      "availability": {
+        "days": ["Sunday", "Monday", "Wednesday"],
+        "time": "2:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dr. Sumaiya Haque",
+      "image": "https://i.ibb.co.com/QvDXBxw7/sumaia.jpg",
+      "education": "MBBS, FCPS (Pediatrics)",
+      "speciality": "Pediatrics",
+      "experience": "11 years",
+      "registration_number": "BMC-2013444",
+      "fee": "900",
+      "hospital_name": "Bangladesh Shishu Hospital",
+      "availability": {
+        "days": ["Monday", "Thursday", "Saturday"],
+        "time": "9:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Dr. Imran Kabir",
+      "image": "https://i.ibb.co.com/jPkwZ9tR/imaran.png",
+      "education": "MBBS, MD (Psychiatry)",
+      "speciality": "Psychiatry",
+      "experience": "5 years",
+      "registration_number": "BMC-2023999",
+      "fee": "950",
+      "hospital_name": "National Institute of Mental Health",
+      "availability": {
+        "days": ["Tuesday", "Thursday", "Friday"],
+        "time": "3:30 PM - 6:30 PM"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Dr. Bilkis Fatema",
+      "image": "https://i.ibb.co.com/23MMMyyX/dr-bilkis-fatema.jpg",
+      "education": "MBBS, FCPS (Ophthalmology)",
+      "speciality": "Eye Specialist",
+      "experience": "13 years",
+      "registration_number": "BMC-2011222",
+      "fee": "800",
+      "hospital_name": "Vision Eye Hospital",
+      "availability": {
+        "days": ["Sunday", "Tuesday", "Friday"],
+        "time": "10:00 AM - 2:00 PM"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Dr. Kazi Maruf",
+      "image": "https://i.ibb.co.com/MD9Chxwh/kaji-maruf.jpg",
+      "education": "MBBS, MD (Gastroenterology)",
+      "speciality": "Gastroenterology",
+      "experience": "10 years",
+      "registration_number": "BMC-2015678",
+      "fee": "1100",
+      "hospital_name": "Birdem General Hospital",
+      "availability": {
+        "days": ["Monday", "Wednesday", "Saturday"],
+        "time": "5:00 PM - 9:00 PM"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Dr. Rehana Sultana",
+      "image": "https://i.ibb.co.com/XxJCjKr9/rehana.jpg",
+      "education": "MBBS, DGO (Obstetrics & Gynecology)",
+      "speciality": "Obstetrics",
+      "experience": "15 years",
+      "registration_number": "BMC-2018991",
+      "fee": "1000",
+      "hospital_name": "Apollo Hospital Dhaka",
+      "availability": {
+        "days": ["Sunday", "Wednesday", "Friday"],
+        "time": "9:00 AM - 1:00 PM"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Dr. Mehedi Hasan",
+      "image": "https://i.ibb.co.com/nqfKRTZ3/mehedi.jpg",
+      "education": "MBBS, FCPS (Nephrology)",
+      "speciality": "Nephrology",
+      "experience": "6 years",
+      "registration_number": "BMC-2024011",
+      "fee": "950",
+      "hospital_name": "Kidney Foundation Hospital",
+      "availability": {
+        "days": ["Monday", "Thursday"],
+        "time": "2:00 PM - 5:00 PM"
+      }
+    }
+  ]
